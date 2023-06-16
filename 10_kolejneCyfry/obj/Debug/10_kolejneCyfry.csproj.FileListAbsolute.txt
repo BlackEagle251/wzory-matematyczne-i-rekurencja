@@ -1,0 +1,8 @@
+E:\Podstawy Programowania ćwiczenia\wzory matematyczne i rekurencja\10_kolejneCyfry\bin\Debug\10_kolejneCyfry.exe.config
+E:\Podstawy Programowania ćwiczenia\wzory matematyczne i rekurencja\10_kolejneCyfry\bin\Debug\10_kolejneCyfry.exe
+E:\Podstawy Programowania ćwiczenia\wzory matematyczne i rekurencja\10_kolejneCyfry\bin\Debug\10_kolejneCyfry.pdb
+E:\Podstawy Programowania ćwiczenia\wzory matematyczne i rekurencja\10_kolejneCyfry\obj\Debug\10_kolejneCyfry.csproj.AssemblyReference.cache
+E:\Podstawy Programowania ćwiczenia\wzory matematyczne i rekurencja\10_kolejneCyfry\obj\Debug\10_kolejneCyfry.csproj.SuggestedBindingRedirects.cache
+E:\Podstawy Programowania ćwiczenia\wzory matematyczne i rekurencja\10_kolejneCyfry\obj\Debug\10_kolejneCyfry.csproj.CoreCompileInputs.cache
+E:\Podstawy Programowania ćwiczenia\wzory matematyczne i rekurencja\10_kolejneCyfry\obj\Debug\10_kolejneCyfry.exe
+E:\Podstawy Programowania ćwiczenia\wzory matematyczne i rekurencja\10_kolejneCyfry\obj\Debug\10_kolejneCyfry.pdb

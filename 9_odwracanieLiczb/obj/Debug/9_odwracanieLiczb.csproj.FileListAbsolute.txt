@@ -1,0 +1,8 @@
+E:\Podstawy Programowania ćwiczenia\wzory matematyczne i rekurencja\9_odwracanieLiczb\bin\Debug\9_odwracanieLiczb.exe.config
+E:\Podstawy Programowania ćwiczenia\wzory matematyczne i rekurencja\9_odwracanieLiczb\bin\Debug\9_odwracanieLiczb.exe
+E:\Podstawy Programowania ćwiczenia\wzory matematyczne i rekurencja\9_odwracanieLiczb\bin\Debug\9_odwracanieLiczb.pdb
+E:\Podstawy Programowania ćwiczenia\wzory matematyczne i rekurencja\9_odwracanieLiczb\obj\Debug\9_odwracanieLiczb.csproj.AssemblyReference.cache
+E:\Podstawy Programowania ćwiczenia\wzory matematyczne i rekurencja\9_odwracanieLiczb\obj\Debug\9_odwracanieLiczb.csproj.SuggestedBindingRedirects.cache
+E:\Podstawy Programowania ćwiczenia\wzory matematyczne i rekurencja\9_odwracanieLiczb\obj\Debug\9_odwracanieLiczb.csproj.CoreCompileInputs.cache
+E:\Podstawy Programowania ćwiczenia\wzory matematyczne i rekurencja\9_odwracanieLiczb\obj\Debug\9_odwracanieLiczb.exe
+E:\Podstawy Programowania ćwiczenia\wzory matematyczne i rekurencja\9_odwracanieLiczb\obj\Debug\9_odwracanieLiczb.pdb

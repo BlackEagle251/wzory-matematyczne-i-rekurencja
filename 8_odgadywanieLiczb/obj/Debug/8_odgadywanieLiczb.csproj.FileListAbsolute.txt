@@ -1,0 +1,8 @@
+E:\Podstawy Programowania ćwiczenia\wzory matematyczne i rekurencja\8_odgadywanieLiczb\bin\Debug\8_odgadywanieLiczb.exe.config
+E:\Podstawy Programowania ćwiczenia\wzory matematyczne i rekurencja\8_odgadywanieLiczb\bin\Debug\8_odgadywanieLiczb.exe
+E:\Podstawy Programowania ćwiczenia\wzory matematyczne i rekurencja\8_odgadywanieLiczb\bin\Debug\8_odgadywanieLiczb.pdb
+E:\Podstawy Programowania ćwiczenia\wzory matematyczne i rekurencja\8_odgadywanieLiczb\obj\Debug\8_odgadywanieLiczb.csproj.AssemblyReference.cache
+E:\Podstawy Programowania ćwiczenia\wzory matematyczne i rekurencja\8_odgadywanieLiczb\obj\Debug\8_odgadywanieLiczb.csproj.SuggestedBindingRedirects.cache
+E:\Podstawy Programowania ćwiczenia\wzory matematyczne i rekurencja\8_odgadywanieLiczb\obj\Debug\8_odgadywanieLiczb.csproj.CoreCompileInputs.cache
+E:\Podstawy Programowania ćwiczenia\wzory matematyczne i rekurencja\8_odgadywanieLiczb\obj\Debug\8_odgadywanieLiczb.exe
+E:\Podstawy Programowania ćwiczenia\wzory matematyczne i rekurencja\8_odgadywanieLiczb\obj\Debug\8_odgadywanieLiczb.pdb
