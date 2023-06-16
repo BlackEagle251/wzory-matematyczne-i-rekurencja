@@ -1,0 +1,8 @@
+E:\Podstawy Programowania ćwiczenia\wzory matematyczne i rekurencja\1_potegowanie\obj\Debug\1_potegowanie.csproj.AssemblyReference.cache
+E:\Podstawy Programowania ćwiczenia\wzory matematyczne i rekurencja\1_potegowanie\obj\Debug\1_potegowanie.csproj.SuggestedBindingRedirects.cache
+E:\Podstawy Programowania ćwiczenia\wzory matematyczne i rekurencja\1_potegowanie\obj\Debug\1_potegowanie.csproj.CoreCompileInputs.cache
+E:\Podstawy Programowania ćwiczenia\wzory matematyczne i rekurencja\1_potegowanie\bin\Debug\1_potegowanie.exe.config
+E:\Podstawy Programowania ćwiczenia\wzory matematyczne i rekurencja\1_potegowanie\bin\Debug\1_potegowanie.exe
+E:\Podstawy Programowania ćwiczenia\wzory matematyczne i rekurencja\1_potegowanie\bin\Debug\1_potegowanie.pdb
+E:\Podstawy Programowania ćwiczenia\wzory matematyczne i rekurencja\1_potegowanie\obj\Debug\1_potegowanie.exe
+E:\Podstawy Programowania ćwiczenia\wzory matematyczne i rekurencja\1_potegowanie\obj\Debug\1_potegowanie.pdb

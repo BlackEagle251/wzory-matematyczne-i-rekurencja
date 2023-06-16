@@ -1,0 +1,8 @@
+E:\Podstawy Programowania ćwiczenia\wzory matematyczne i rekurencja\4_kontoOszczednosciowe\obj\Debug\4_kontoOszczednosciowe.csproj.AssemblyReference.cache
+E:\Podstawy Programowania ćwiczenia\wzory matematyczne i rekurencja\4_kontoOszczednosciowe\obj\Debug\4_kontoOszczednosciowe.csproj.SuggestedBindingRedirects.cache
+E:\Podstawy Programowania ćwiczenia\wzory matematyczne i rekurencja\4_kontoOszczednosciowe\obj\Debug\4_kontoOszczednosciowe.csproj.CoreCompileInputs.cache
+E:\Podstawy Programowania ćwiczenia\wzory matematyczne i rekurencja\4_kontoOszczednosciowe\bin\Debug\4_kontoOszczednosciowe.exe.config
+E:\Podstawy Programowania ćwiczenia\wzory matematyczne i rekurencja\4_kontoOszczednosciowe\bin\Debug\4_kontoOszczednosciowe.exe
+E:\Podstawy Programowania ćwiczenia\wzory matematyczne i rekurencja\4_kontoOszczednosciowe\bin\Debug\4_kontoOszczednosciowe.pdb
+E:\Podstawy Programowania ćwiczenia\wzory matematyczne i rekurencja\4_kontoOszczednosciowe\obj\Debug\4_kontoOszczednosciowe.exe
+E:\Podstawy Programowania ćwiczenia\wzory matematyczne i rekurencja\4_kontoOszczednosciowe\obj\Debug\4_kontoOszczednosciowe.pdb

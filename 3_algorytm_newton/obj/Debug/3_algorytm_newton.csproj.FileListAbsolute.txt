@@ -1,0 +1,8 @@
+E:\Podstawy Programowania ćwiczenia\wzory matematyczne i rekurencja\3_algorytm_newton\bin\Debug\3_algorytm_newton.exe.config
+E:\Podstawy Programowania ćwiczenia\wzory matematyczne i rekurencja\3_algorytm_newton\bin\Debug\3_algorytm_newton.exe
+E:\Podstawy Programowania ćwiczenia\wzory matematyczne i rekurencja\3_algorytm_newton\bin\Debug\3_algorytm_newton.pdb
+E:\Podstawy Programowania ćwiczenia\wzory matematyczne i rekurencja\3_algorytm_newton\obj\Debug\3_algorytm_newton.csproj.AssemblyReference.cache
+E:\Podstawy Programowania ćwiczenia\wzory matematyczne i rekurencja\3_algorytm_newton\obj\Debug\3_algorytm_newton.csproj.SuggestedBindingRedirects.cache
+E:\Podstawy Programowania ćwiczenia\wzory matematyczne i rekurencja\3_algorytm_newton\obj\Debug\3_algorytm_newton.csproj.CoreCompileInputs.cache
+E:\Podstawy Programowania ćwiczenia\wzory matematyczne i rekurencja\3_algorytm_newton\obj\Debug\3_algorytm_newton.exe
+E:\Podstawy Programowania ćwiczenia\wzory matematyczne i rekurencja\3_algorytm_newton\obj\Debug\3_algorytm_newton.pdb

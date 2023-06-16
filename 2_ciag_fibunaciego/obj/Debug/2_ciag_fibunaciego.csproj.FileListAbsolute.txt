@@ -1,0 +1,8 @@
+E:\Podstawy Programowania ćwiczenia\wzory matematyczne i rekurencja\2_ciag_fibunaciego\obj\Debug\2_ciag_fibunaciego.csproj.AssemblyReference.cache
+E:\Podstawy Programowania ćwiczenia\wzory matematyczne i rekurencja\2_ciag_fibunaciego\obj\Debug\2_ciag_fibunaciego.csproj.SuggestedBindingRedirects.cache
+E:\Podstawy Programowania ćwiczenia\wzory matematyczne i rekurencja\2_ciag_fibunaciego\obj\Debug\2_ciag_fibunaciego.csproj.CoreCompileInputs.cache
+E:\Podstawy Programowania ćwiczenia\wzory matematyczne i rekurencja\2_ciag_fibunaciego\bin\Debug\2_ciag_fibunaciego.exe.config
+E:\Podstawy Programowania ćwiczenia\wzory matematyczne i rekurencja\2_ciag_fibunaciego\bin\Debug\2_ciag_fibunaciego.exe
+E:\Podstawy Programowania ćwiczenia\wzory matematyczne i rekurencja\2_ciag_fibunaciego\bin\Debug\2_ciag_fibunaciego.pdb
+E:\Podstawy Programowania ćwiczenia\wzory matematyczne i rekurencja\2_ciag_fibunaciego\obj\Debug\2_ciag_fibunaciego.exe
+E:\Podstawy Programowania ćwiczenia\wzory matematyczne i rekurencja\2_ciag_fibunaciego\obj\Debug\2_ciag_fibunaciego.pdb

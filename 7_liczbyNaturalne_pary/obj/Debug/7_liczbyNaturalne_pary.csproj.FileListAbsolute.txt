@@ -1,0 +1,8 @@
+E:\Podstawy Programowania ćwiczenia\wzory matematyczne i rekurencja\7_liczbyNaturalne_pary\bin\Debug\7_liczbyNaturalne_pary.exe.config
+E:\Podstawy Programowania ćwiczenia\wzory matematyczne i rekurencja\7_liczbyNaturalne_pary\bin\Debug\7_liczbyNaturalne_pary.exe
+E:\Podstawy Programowania ćwiczenia\wzory matematyczne i rekurencja\7_liczbyNaturalne_pary\bin\Debug\7_liczbyNaturalne_pary.pdb
+E:\Podstawy Programowania ćwiczenia\wzory matematyczne i rekurencja\7_liczbyNaturalne_pary\obj\Debug\7_liczbyNaturalne_pary.csproj.AssemblyReference.cache
+E:\Podstawy Programowania ćwiczenia\wzory matematyczne i rekurencja\7_liczbyNaturalne_pary\obj\Debug\7_liczbyNaturalne_pary.csproj.SuggestedBindingRedirects.cache
+E:\Podstawy Programowania ćwiczenia\wzory matematyczne i rekurencja\7_liczbyNaturalne_pary\obj\Debug\7_liczbyNaturalne_pary.csproj.CoreCompileInputs.cache
+E:\Podstawy Programowania ćwiczenia\wzory matematyczne i rekurencja\7_liczbyNaturalne_pary\obj\Debug\7_liczbyNaturalne_pary.exe
+E:\Podstawy Programowania ćwiczenia\wzory matematyczne i rekurencja\7_liczbyNaturalne_pary\obj\Debug\7_liczbyNaturalne_pary.pdb

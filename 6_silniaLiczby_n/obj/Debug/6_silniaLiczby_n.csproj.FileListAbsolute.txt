@@ -1,0 +1,8 @@
+E:\Podstawy Programowania ćwiczenia\wzory matematyczne i rekurencja\6_silniaLiczby_n\bin\Debug\6_silniaLiczby_n.exe.config
+E:\Podstawy Programowania ćwiczenia\wzory matematyczne i rekurencja\6_silniaLiczby_n\bin\Debug\6_silniaLiczby_n.exe
+E:\Podstawy Programowania ćwiczenia\wzory matematyczne i rekurencja\6_silniaLiczby_n\bin\Debug\6_silniaLiczby_n.pdb
+E:\Podstawy Programowania ćwiczenia\wzory matematyczne i rekurencja\6_silniaLiczby_n\obj\Debug\6_silniaLiczby_n.csproj.AssemblyReference.cache
+E:\Podstawy Programowania ćwiczenia\wzory matematyczne i rekurencja\6_silniaLiczby_n\obj\Debug\6_silniaLiczby_n.csproj.SuggestedBindingRedirects.cache
+E:\Podstawy Programowania ćwiczenia\wzory matematyczne i rekurencja\6_silniaLiczby_n\obj\Debug\6_silniaLiczby_n.csproj.CoreCompileInputs.cache
+E:\Podstawy Programowania ćwiczenia\wzory matematyczne i rekurencja\6_silniaLiczby_n\obj\Debug\6_silniaLiczby_n.exe
+E:\Podstawy Programowania ćwiczenia\wzory matematyczne i rekurencja\6_silniaLiczby_n\obj\Debug\6_silniaLiczby_n.pdb
